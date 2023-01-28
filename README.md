@@ -3,7 +3,3 @@
 image
 
 text
-
-music
-
-video
